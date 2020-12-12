@@ -13,7 +13,7 @@ The datasets implement the PyTorch dataset API.
 ```
 @inproceedings{
 lueddecke2020cnns,
-    title={{\{}CNN{\}}s can efficiently trace paths, too},
+    title={CNNs efficiently learn long-range dependencies},
     author={Timo L{\"u}ddecke and Alexander S Ecker},
     booktitle={NeurIPS 2020 Workshop SVRHM},
     year={2020},
